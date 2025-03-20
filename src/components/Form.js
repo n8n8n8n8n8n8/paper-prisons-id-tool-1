@@ -237,7 +237,7 @@ const Form = ({ data = {}, output = {} }) => {
           </div>
           <div className="dynamic-form-output-item">
             <p className="dynamic-form-output-item-title">Contact</p>
-            Placeholder for test
+            For any questions, please email info@paperprisons.org
           </div>
         </div>
       )}
